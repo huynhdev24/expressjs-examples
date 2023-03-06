@@ -1,0 +1,14 @@
+{
+  "name": "expressjs-examples",
+  "version": "1.0.0",
+  "description": "expressjs-examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "expressjs-examples"
+  ],
+  "author": "huynhdev24",
+  "license": "MIT"
+}
